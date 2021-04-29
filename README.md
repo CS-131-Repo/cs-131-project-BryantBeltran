@@ -6,11 +6,11 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Bryant Beltran
 
-## Student ID    : 
+## Student ID    : 882519701
 
-## Student Email : 
+## Student Email : beltraba4823@student.laccd.edu
 
 ## Purpose of Repository
 
