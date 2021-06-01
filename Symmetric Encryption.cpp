@@ -12,7 +12,7 @@ int in1, in2, n, t, i, fl;
 long int e[50], d[50], temp[50], j;
 char en[50], m[50];
 char msg[100]; // set
-int prime(long int); // check if prme
+int prime(long int); // check if prime
 void key();
 long int cd(long int);
 void msgencrypt();
